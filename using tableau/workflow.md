@@ -16,10 +16,10 @@
       <li>
         Designed multiple visualizations:
         <ul type= "square">
-          <li>Bar Chart: Top 10 product categories by sales.</li>
-          <li>Map Chart: Sales and orders by states.</li>
-          <li>Side-by-Side Chart: Sales by age group and gender.</li>
-          <li>Text Table: Occupational distribution of orders and sales.</li>
+          <li><b>Bar Chart:</b> Top 10 product categories by sales.</li>
+          <li><b>Map Chart:</b> Sales and orders by states.</li>
+          <li><b>Side-by-Side Chart:</b> Sales by age group and gender.</li>
+          <li><b>Text Table:</b> Occupational distribution of orders and sales.</li>
         </ul>
       </li>
       <li>Developed an interactive dashboard combining all charts.</li>
