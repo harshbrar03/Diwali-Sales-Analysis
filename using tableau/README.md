@@ -1,63 +1,41 @@
-# Diwali Sales Dashboard
-<h2>1. Project Overview</h2>
-<p>This project focuses on analyzing Diwali sales data to derive actionable insights about customer behavior, product trends, and sales patterns. It combines Python for data preprocessing and Tableau for creating an interactive dashboard.</p>
+# Diwali Sales Analysis - Tableau Dashboard
 
-<h2>2. Workflow</h2>
-<p>
-    <h3>1. Data Preprocessing:</h3>
-    <ul>
-      <li>Cleaned and transformed raw sales data <b>(Diwali Sales Data.csv)</b> using Python.</li>
-      <li>Performed feature engineering, including creating new columns for analysis.</li>
-      <li>Exported the processed data as a CSV file <b>(Processed Diwali Sales Data.csv)</b> for Tableau integration.</li>
-    </ul>
-    <h3>2. Dashboard Creation:</h3>
-    <ul>
-      <li>Imported cleaned data into Tableau.</li>
-      <li>
-        Designed multiple visualizations:
-        <ul type= "square">
-          <li><b>Bar Chart:</b> Top 10 product categories by sales.</li>
-          <li><b>Map Chart:</b> Sales and orders by states.</li>
-          <li><b>Side-by-Side Chart:</b> Sales by age group and gender.</li>
-          <li><b>Text Table:</b> Occupational distribution of orders and sales.</li>
-        </ul>
-      </li>
-      <li>Developed an interactive dashboard combining all charts.</li>
-    </ul>
+## Workflow
+1. **Data Cleaning and Preparation**:
+   - Data cleaning and feature engineering were performed using Python (Pandas and Numpy).
+   - Exported the processed dataset as `processed_data.csv` for visualization.
 
-</p>
-<h2>3. Technologies Used</h2>
-<ul>
-  <li><b>Python:</b> For data cleaning and feature engineering.</li>
-  <li><b>Tableau:</b> For interactive data visualization and dashboard creation.</li>
-</ul>
+2. **Dashboard Creation**:
+   - Tableau was used to create interactive visualizations and dashboards.
+   - Key metrics such as sales, orders, and customer demographics were analyzed and visualized.
 
-<h2>4. Features of the Dashboard</h2>
-<ul>
-  <li>Visualizes sales by state, age group, gender, and occupation.</li>
-  <li>Interactive filters allow dynamic exploration of data relationships.</li>
-  <li>Identifies top-performing products and customer demographics.</li>
-</ul>
+## Dashboard Highlights
+### Charts Created:
+1. **Bar Chart**: Top 10 product categories by sales.
+2. **Side-by-Side Chart**: Sales by age group and gender.
+3. **Map Chart**: Sales and orders by states.
+4. **Text Table**: Occupational distribution by orders and total sales.
 
-<h2>5. Dataset</h2>
-<p>The dataset <b>(Processed Diwali Sales Data.csv)</b> includes information on:</p>
-<ul>
-  <li>Customer demographics (Age, Gender, Occupation)</li>
-  <li>Product categories</li>
-  <li>Sales and order details</li>
-</ul>
+### Interactive Features:
+- Filters for state, gender, and age group.
+- Interconnected visualizations enabling deeper insights.
 
-<h2>6. Outputs</h2>
-<p>The dataset includes information on:</p>
-<ul>
-  <li><b>Dashboard Preview:</b></li>
-</ul>
-
+## Outputs
+### Dashboard Preview:
 ![Dashboard Preview](dashboard.png)
 
-<ul>
-  <li><b>Interactive Dashboard Link:</b> <a href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</a></li>
-</ul>
+### Interactive Dashboard Link:
+[View the Dashboard](https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Insights
+- **Top Categories**: Food, Clothing & Apparel lead in sales.
+- **Demographics**: Young Adults contribute significantly to sales.
+- **Geographical Trends**: Maharashtra and Uttar Pradesh are top-performing states.
+
+## Files
+- `dashboard.png`: Screenshot of the Tableau dashboard.
+- `processed_data.csv`: Dataset used in Tableau visualizations.
+
 
 
 
