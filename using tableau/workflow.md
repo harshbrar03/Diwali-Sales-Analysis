@@ -50,7 +50,8 @@
 <h2>6. Outputs</h2>
 <p>The dataset includes information on:</p>
 <ul>
-  <li><b>Dashboard Preview:</b> ![Dashboard Preview](dashboard.png) </li>
+  <li><b>Dashboard Preview:</b> ![Dashboard Preview](dashboard.png)
+ </li>
   <li><b>Interactive Dashboard Link:</b> <a href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</a></li>
 </ul>
 
