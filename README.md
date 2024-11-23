@@ -1,8 +1,8 @@
 # Diwali Sales Analysis
-<h2>Project Overview</h2>h2>
+<h2>Project Overview</h2>
 <p>This project analyzes Diwali sales data for a retail store, aiming to uncover trends, customer behaviors, and opportunities to optimize sales strategies. It utilizes Python and visualization libraries for data-driven insights.</p>
 
-<h2>Technologies Used</h2>h2>
+<h2>Technologies Used</h2>
 <ul>
   <li>Python</li>
   <li>Jupyter Notebook</li>
