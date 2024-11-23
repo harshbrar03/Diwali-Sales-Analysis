@@ -28,7 +28,6 @@
       <li>Developed an interactive dashboard combining all charts.</li>
     </ul>
   </li>
-  <li></li>
 </ol>
 
 <h2>3. Technologies Used</h2>
@@ -55,8 +54,8 @@
 <h2>6. Outputs</h2>
 <p>The dataset includes information on:</p>
 <ul>
-  <li>Dashboard Preview:</li>
-  <li>Interactive Dashboard Link: <link href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</link></li>
+  <li>Dashboard Preview: </li>
+  <li>Interactive Dashboard Link: <a href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</a></li>
 </ul>
 
 
