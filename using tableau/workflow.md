@@ -7,7 +7,7 @@
   <li>
     <h3>Data Preprocessing:</h3>
     <ul>
-      <li>Cleaned and transformed raw sales data using Python.</li>
+      <li>Cleaned and transformed raw sales data{<b>(02) Diwali Sales Data.csv</b>} using Python.</li>
       <li>Performed feature engineering, including creating new columns for analysis.</li>
       <li>Exported the processed data as a CSV file for Tableau integration.</li>
     </ul>
@@ -44,7 +44,7 @@
 </ul>
 
 <h2>5. Dataset</h2>
-<p>The dataset includes information on:</p>
+<p>The dataset{<b>(03) Processed Diwali Sales Data.csv</b>} includes information on:</p>
 <ul>
   <li>Customer demographics (Age, Gender, Occupation)</li>
   <li>Product categories</li>
