@@ -4,7 +4,7 @@
 
 <h2>2. Workflow</h2>
 <p>
-    <h3>1. Data Preprocessing:</h3>
+    1. Data Preprocessing:
     <ul>
       <li>Cleaned and transformed raw sales data <b>(Diwali Sales Data.csv)</b> using Python.</li>
       <li>Performed feature engineering, including creating new columns for analysis.</li>
@@ -28,8 +28,8 @@
 </p>
 <h2>3. Technologies Used</h2>
 <ul>
-  <li>Python: For data cleaning and feature engineering.</li>
-  <li>Tableau: For interactive data visualization and dashboard creation.</li>
+  <li><b>Python:</b> For data cleaning and feature engineering.</li>
+  <li><b>Tableau:</b> For interactive data visualization and dashboard creation.</li>
 </ul>
 
 <h2>4. Features of the Dashboard</h2>
@@ -50,8 +50,8 @@
 <h2>6. Outputs</h2>
 <p>The dataset includes information on:</p>
 <ul>
-  <li>Dashboard Preview: </li>
-  <li>Interactive Dashboard Link: <a href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</a></li>
+  <li><b>Dashboard Preview:</b> </li>
+  <li><b>Interactive Dashboard Link:</b> <a href="https://public.tableau.com/views/dashboard_17323611107920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Dashboard</a></li>
 </ul>
 
 
