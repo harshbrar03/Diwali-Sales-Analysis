@@ -4,7 +4,7 @@
 
 <h2>2. Workflow</h2>
 <p>
-    1. Data Preprocessing:
+    <h3>1. Data Preprocessing:</h3>
     <ul>
       <li>Cleaned and transformed raw sales data <b>(Diwali Sales Data.csv)</b> using Python.</li>
       <li>Performed feature engineering, including creating new columns for analysis.</li>
