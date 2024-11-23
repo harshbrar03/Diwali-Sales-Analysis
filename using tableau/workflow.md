@@ -3,16 +3,14 @@
 <p>This project focuses on analyzing Diwali sales data to derive actionable insights about customer behavior, product trends, and sales patterns. It combines Python for data preprocessing and Tableau for creating an interactive dashboard.</p>
 
 <h2>2. Workflow</h2>
-<ol>
-  <li>
+<p>
     <h3>Data Preprocessing:</h3>
     <ul>
       <li>Cleaned and transformed raw sales data <b>(Diwali Sales Data.csv)</b> using Python.</li>
       <li>Performed feature engineering, including creating new columns for analysis.</li>
       <li>Exported the processed data as a CSV file for Tableau integration.</li>
     </ul>
-  </li>
-  <li>
+
     <h3>Dashboard Creation:</h3>
     <ul>
       <li>Imported cleaned data into Tableau.</li>
@@ -27,9 +25,8 @@
       </li>
       <li>Developed an interactive dashboard combining all charts.</li>
     </ul>
-  </li>
-</ol>
 
+</p>
 <h2>3. Technologies Used</h2>
 <ul>
   <li>Python: For data cleaning and feature engineering.</li>
