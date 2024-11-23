@@ -3,7 +3,7 @@
 ## Workflow
 1. **Data Cleaning and Preparation**:
    - Data cleaning and feature engineering were performed using Python (Pandas).
-   - Exported the processed dataset as `processed_data.csv` for visualization.
+   - Exported the processed dataset as `Processed Diwali Sales Data.csv` for visualization.
 
 2. **Dashboard Creation**:
    - Tableau was used to create interactive visualizations and dashboards.
@@ -34,7 +34,7 @@
 
 ## Files
 - `dashboard.png`: Screenshot of the Tableau dashboard.
-- `processed_data.csv`: Dataset used in Tableau visualizations.
+- `Processed Diwali Sales Data.csv`: Dataset used in Tableau visualizations.
 
 
 
