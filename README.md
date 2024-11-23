@@ -18,7 +18,7 @@ The dataset (Diwali Sales Data.csv) contains detailed sales records. Key feature
 - Handled missing values, incorrect data types, and outliers.
 
 ## 5. Key Insights
-- Top-performing product categories include 'Food' and 'Clothing & Apparel.
+- Top-performing product categories include 'Food' and 'Clothing & Apparel'.
 - Most sales are driven by the 18–30 age group (Young Adults).
 - States like Maharashtra and Uttar Pradesh show the highest sales volumes.
 
