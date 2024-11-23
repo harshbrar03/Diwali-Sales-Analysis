@@ -8,9 +8,8 @@
     <ul>
       <li>Cleaned and transformed raw sales data <b>(Diwali Sales Data.csv)</b> using Python.</li>
       <li>Performed feature engineering, including creating new columns for analysis.</li>
-      <li>Exported the processed data as a CSV file for Tableau integration.</li>
+      <li>Exported the processed data as a CSV file <b>(Processed Diwali Sales Data.csv)</b> for Tableau integration.</li>
     </ul>
-
     <h3>2. Dashboard Creation:</h3>
     <ul>
       <li>Imported cleaned data into Tableau.</li>
