@@ -11,7 +11,7 @@ This project analyzes Diwali sales data to uncover customer trends, purchasing b
 - Seaborn
 
 ## 3. Dataset
-The dataset (Diwali Sales Data.csv) contains detailed sales records. Key features include customer demographics, purchase details, and product categories.
+The dataset `Diwali Sales Data.csv` contains detailed sales records. Key features include customer demographics, purchase details, and product categories.
 
 ## 4. Data Preprocessing
 - Cleaned and transformed the dataset using Python.
